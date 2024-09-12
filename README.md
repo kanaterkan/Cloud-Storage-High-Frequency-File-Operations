@@ -1,5 +1,6 @@
 # Cloud-Storage-High-Frequency-File-Operations
-Effectiveness of Cloud Storage in High-Frequency File Operations
-File is following soon!
+
+Zusammenarbeit mit Berkay Aksu.
+Linkedin: linkedin.com/in/berkayaksu
 
 [Hier klicken, um das Dokument anzusehen](/AksuKanat.pdf)
